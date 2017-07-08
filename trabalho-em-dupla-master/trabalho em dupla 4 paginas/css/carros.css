@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+div#carro1{
+border: 2px white solid;
+height: 255px;
+width: 300px;
+position: absolute;
+margin-top: 150px;
+margin-left: 150px;
+}
+div#carro2{
+border: 2px white solid;
+height: 255px;
+width: 300px;
+position: absolute;
+margin-top: 150px;
+margin-left: 550px;
+}
+h1{
+  color: white;
+  font-size: 20px;
+}
+h2{
+  color: white;
+  font-size:20px;
+}
+p{
+color: white;
+font-size: 30px;
+}
